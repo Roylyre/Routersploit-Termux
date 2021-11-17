@@ -11,7 +11,7 @@ python -m pip install wheel
 SODIUM_INSTALL=system pip install pynacl
 git clone https://github.com/threat9/routersploit
 mv routersploit $HOME/
-python -m pip install -r requirements.txt
-python -m pip install -r requirements-dev.txt
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
 cd $HOME
 echo "Done!"
