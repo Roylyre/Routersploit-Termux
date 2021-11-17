@@ -16,6 +16,12 @@ git clone https://github.com/Roylyre/Routersploit-Termux
 cd Routersploit-Termux
 bash script.sh
 ```
+Wait untill finish and run the program with command:
+```
+cd $HOME
+cd routersploit
+python rsf.py
+```
 
 Manual Method
 
