@@ -12,4 +12,5 @@ SODIUM_INSTALL=system pip install pynacl
 git clone https://github.com/threat9/routersploit
 python -m pip install requirements.txt
 python -m pip install requirements-dev.txt
+cd $HOME
 echo "Done!"
