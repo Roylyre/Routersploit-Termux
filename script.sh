@@ -10,7 +10,7 @@ apt install autoconf automake bison bzip2 clang cmake coreutils diffutils flex g
 python -m pip install wheel
 SODIUM_INSTALL=system pip install pynacl
 git clone https://github.com/threat9/routersploit
-python -m pip install requirements.txt
-python -m pip install requirements-dev.txt
+python -m pip install -r requirements.txt
+python -m pip install -r requirements-dev.txt
 cd $HOME
 echo "Done!"
