@@ -13,5 +13,4 @@ git clone https://github.com/threat9/routersploit
 mv routersploit $HOME/
 pip install -r requirements.txt
 pip install -r requirements-dev.txt
-cd $HOME
 echo "Done!"
