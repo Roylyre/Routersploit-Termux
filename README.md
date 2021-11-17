@@ -13,6 +13,7 @@ Auto Method
 ```
 apt update && apt install git
 git clone https://github.com/Roylyre/Routersploit-Termux
+cd Routersploit-Termux
 bash script.sh
 ```
 
