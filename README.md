@@ -1,4 +1,4 @@
-# RoutersploitTermux
+# Routersploit-Termux
 Script for installing routersploit on termux
 
 # Requirements ( important! )
